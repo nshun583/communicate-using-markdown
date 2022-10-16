@@ -30,3 +30,9 @@ export PS1='[\[\033[1;32m\]\u@\h\[\033[00m\] \[\033[1;37m\]\w\[\033[1;31m\]$(__g
 eval `ssh-agent` > /dev/null 2>&1
 eval `ssh-add ~/.ssh/id_ed25519 > /dev/null 2>&1`
 ```
+
+task list
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
